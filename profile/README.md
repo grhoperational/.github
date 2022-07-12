@@ -5,7 +5,7 @@ Ordinary people who aims to make the world a freer place.
 ## Contracted services
 
 If you or your organization/company needs help to realize some task 
-or want us to make a specific program, get in touch through our [email](grhoperational@proton.me).
+or want us to make a specific program, get in touch through our [email](mailto:grhoperational@proton.me).
 
 ## Support
 
